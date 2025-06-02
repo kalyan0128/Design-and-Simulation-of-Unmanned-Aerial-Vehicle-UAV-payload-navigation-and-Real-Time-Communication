@@ -1,2 +1,0 @@
-# Design-and-Simulation-of-Unmanned-Aerial-Vehicle-UAV-payload-navigation-and-Real-Time-Communication
-This project focuses on developing a reusable UAV platform capable of autonomous vertical take-off and landing (VTOL), 3D navigation, and real-time communication. Powered by electric propulsion and controlled using PID-based algorithms, the UAV system leverages LoRa modules for robust, low-latency data exchange with a ground station.
