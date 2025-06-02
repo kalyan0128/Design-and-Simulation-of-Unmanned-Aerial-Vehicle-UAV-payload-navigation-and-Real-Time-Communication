@@ -55,14 +55,6 @@ Develop a reusable UAV system capable of autonomous vertical take-off and landin
 
 ---
 
-## Academic Acknowledgements
-
-This project was developed independently as part of a personal initiative to replicate advanced aerospace navigation systems for academic exploration.
-
-## License
-
-This project is for educational purposes only and is not available for commercial use without permission.
-
 ## Acknowledgements
 
 - SpaceX for inspiration from Falcon 9's reusable systems.
