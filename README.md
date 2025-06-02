@@ -28,11 +28,11 @@ Inspired by Falcon 9's pioneering work in reusable rocket technology, this proje
 
 ## System Block Diagram
 
-![](UAV Block Diagram.png)
+![](UAV_Block_Diagram.png)
 
 ## UAV Prototype Output
 
-![](UAV Output.png)
+![](UAV_Output.png)
 
 ## Detailed Description
 
